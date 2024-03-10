@@ -1,0 +1,30 @@
+<linker>
+	<assembly fullname="Assembly-CSharp" ignoreIfMissing="1">
+		<type fullname="CameraOnObjectController">
+			<method name="CameraClickChange"/>
+			<method name="CameraClickChange"/>
+			<method name="CameraClickChange"/>
+		</type>
+		<type fullname="CopMovementController">
+			<method name="LeftTouchMove"/>
+			<method name="LeftTouchMove"/>
+			<method name="RightTouchMove"/>
+			<method name="RightTouchMove"/>
+		</type>
+		<type fullname="Menu">
+			<method name="OnExitHandler"/>
+			<method name="OnPlayHandler"/>
+		</type>
+		<type fullname="PauseMenu">
+			<method name="GoToMenu"/>
+			<method name="GoToMenu"/>
+			<method name="GoToMenu"/>
+			<method name="TogglePanel"/>
+			<method name="TogglePanel"/>
+			<method name="TogglePanel"/>
+			<method name="TogglePanel"/>
+			<method name="TogglePanel"/>
+			<method name="TogglePanel"/>
+		</type>
+	</assembly>
+</linker>

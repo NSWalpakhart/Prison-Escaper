@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-merged_res-22:\\mipmap-mdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-main-23:\\mipmap-mdpi\\app_icon.png"
+    },
+    {
+        "merged": "com.DefaultCompany.snake.launcher-merged_res-22:/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "com.DefaultCompany.snake.launcher-main-23:/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-merged_res-22:\\mipmap-anydpi-v26_app_icon.xml.flat",
+        "source": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-main-23:\\mipmap-anydpi-v26\\app_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-merged_res-22:\\mipmap-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-main-23:\\mipmap-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-merged_res-22:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-main-23:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-merged_res-22:\\mipmap-anydpi-v26_app_icon_round.xml.flat",
+        "source": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-main-23:\\mipmap-anydpi-v26\\app_icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-merged_res-22:\\mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-main-23:\\mipmap-xxxhdpi\\app_icon.png"
+    },
+    {
+        "merged": "com.DefaultCompany.snake.launcher-merged_res-22:/mipmap-mdpi_app_icon.png.flat",
+        "source": "com.DefaultCompany.snake.launcher-main-23:/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "com.DefaultCompany.snake.launcher-merged_res-22:/mipmap-xhdpi_app_icon.png.flat",
+        "source": "com.DefaultCompany.snake.launcher-main-23:/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.DefaultCompany.snake.launcher-merged_res-22:/mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "com.DefaultCompany.snake.launcher-main-23:/mipmap-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "com.DefaultCompany.snake.launcher-merged_res-22:/mipmap-hdpi_app_icon.png.flat",
+        "source": "com.DefaultCompany.snake.launcher-main-23:/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-merged_res-22:\\mipmap-hdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-main-23:\\mipmap-hdpi\\app_icon.png"
+    },
+    {
+        "merged": "com.DefaultCompany.snake.launcher-merged_res-22:/mipmap-ldpi_app_icon.png.flat",
+        "source": "com.DefaultCompany.snake.launcher-main-23:/mipmap-ldpi/app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-merged_res-22:\\mipmap-ldpi_app_icon.png.flat",
+        "source": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-main-23:\\mipmap-ldpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-merged_res-22:\\mipmap-xhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-main-23:\\mipmap-xhdpi\\app_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-merged_res-22:\\mipmap-xxhdpi_app_icon.png.flat",
+        "source": "C:\\Users\\Nikol\\.gradle\\daemon\\7.6\\com.DefaultCompany.snake.launcher-main-23:\\mipmap-xxhdpi\\app_icon.png"
+    }
+]
